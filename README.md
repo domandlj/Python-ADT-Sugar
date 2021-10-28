@@ -1,5 +1,5 @@
 # Python-ADT-Sugar
-A simple preprocessor that extends python with a Haskell-like sintacitc sugar for algebraic data types (kinda).  
+A simple preprocessor that extends Python with a Haskell-like sintactic sugar for algebraic data types (kinda).  
 🐍 + 🍬 = ❤️  
 
 ## Usage
@@ -7,7 +7,7 @@ A simple preprocessor that extends python with a Haskell-like sintacitc sugar fo
 $ python3 adt.py source.py > target.py
 ``` 
 
-## Sintaic sugar example
+## Sintactic sugar example
 
 The file `source.py` should looks like this:  
 ```python
